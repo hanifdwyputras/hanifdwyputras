@@ -1,12 +1,15 @@
-# Hello!
+<!-- ChatGPT (OpenAI) Generated -->
 
-Let me introduce myself.
-My name is "Hanif Dwy Putra S", you can call me "Hanif". I am 15 years old, from Central Sulawesi, Palu, Indonesia. I don't like programming because it sucks. Btw, you can visit my primary [github account (@hansputera)](https://github.com/hansputera) :3
+# Welcome to my GitHub account!
 
-### Projects 🔥
-Don't forget to give a star ⭐
-- [TikTok Downloader](https://github.com/hansputera/tiktok-dl.git)
-- [Midtrans Node](https://github.com/hansputera/midtrans-node.git)
-- [Brainly Scraper](https://github.com/hansputera/brainly-scraper-languages.git)
+Hi there! My name is Hanif Dwy Putra S and I am a software developer with a passion for creating innovative and exciting projects.
 
-Thanks, and have a nice day 😃
+On this GitHub account, you will find a collection of projects that showcase my skills and experience in web scraping, Golang, Node.js, TypeScript, JavaScript, and Python. These projects represent some of my best work and demonstrate my ability to use these technologies to build powerful and efficient solutions.
+
+In addition to my skills in these technologies, I also have experience in building bots for WhatsApp and Discord. These bots have a range of features, including store management, games, and more, that make them a valuable addition to any community.
+
+Feel free to browse through my projects and get in touch if you have any questions or comments. I am always looking for new opportunities to learn and grow as a developer.
+
+Thanks for visiting my GitHub account! Don't forget to visit my 1st account ([github.com/hansputera](https://github.com/hansputera))
+
+Hanif Dwy Putra S
